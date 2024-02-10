@@ -7,3 +7,6 @@ print(a,'\t',b)
 
 print(a*b)
 print(a,'\t',b)
+
+print(a/b)
+print(a,'\t',b)
